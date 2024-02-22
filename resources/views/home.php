@@ -80,6 +80,12 @@
                                 Sección 9
                             </a>
                         </li>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="seccion9">
+                                Sección 10
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
